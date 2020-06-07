@@ -7,11 +7,12 @@ R/Shiny online app for COVID-19 data analysis and visualization
 
 ## GUI Examples
 
-Exploration data for individual countries
+### Exploration data for individual countries
+
 ![Explore countries](https://github.com/stagraph/COVID-19/blob/master/www/fig1.png?raw=true)
 
-Exploration on map
+### Exploration on map
 ![Map display](https://github.com/stagraph/COVID-19/blob/master/www/fig2.png?raw=true)
 
-Analytical options
+### Analytical options
 ![Analytical options](https://github.com/stagraph/COVID-19/blob/master/www/fig3.png?raw=true)
